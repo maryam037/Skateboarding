@@ -78,7 +78,7 @@ const App = () => {
       name: "Maryam Ashfaq",
       age: 23,
       text: "Here to help you go from complete beginner to landing your first Ollie in just 1 month!",
-      image: "/src/assets/maryampic.png",
+      image: "src/assets/maryampic.png",
     },
     {
       name: "Arisha Farhan",
@@ -258,31 +258,31 @@ const App = () => {
       title: "Deck",
       description:
         "The wooden board you stand on, typically made from 7 layers of maple wood. Comes in various widths and shapes for different riding styles.",
-      image: "/src/assets/decks.JPG",
+      image: "src/assets/decks.JPG",
     },
     {
       title: "Trucks",
       description:
         "Metal axles attached to the deck that allow turning and provide stability. The tightness of trucks affects your turning radius.",
-      image: "/src/assets/trucks.JPG",
+      image: "src/assets/trucks.JPG",
     },
     {
       title: "Wheels",
       description:
         "Urethane wheels come in different sizes and hardness levels. Larger, softer wheels are better for cruising, while smaller, harder wheels are ideal for tricks.",
-      image: "/src/assets/wheels.JPG",
+      image: "src/assets/wheels.JPG",
     },
     {
       title: "Bearings",
       description:
         "Metal components inside the wheels that allow them to spin smoothly. Quality bearings can significantly improve your riding experience.",
-      image: "/src/assets/bearings.JPG",
+      image: "src/assets/bearings.JPG",
     },
     {
       title: "Grip Tape",
       description:
         "Rough, sandpaper-like material applied to the top of the deck for traction. Essential for maintaining control during tricks and regular riding.",
-      image: "/src/assets/griptape.JPG",
+      image: "src/assets/griptape.JPG",
     },
   ].map((part, index) => (
     <div
@@ -317,28 +317,28 @@ const App = () => {
                     title: "Stance: Regular vs. Goofy",
                     description:
                       "Your stance determines which foot leads on the board. Regular riders lead with their left foot, while goofy riders lead with their right. Neither is better - it's all about what feels natural to you.",
-                    image: "/src/assets/stance.JPG",
+                    image: "src/assets/stance.JPG",
                     videoLink: "https://youtu.be/EbLJ9ypcHRE?feature=shared",
                   },
                   {
                     title: "Pushing: How to Propel Yourself",
                     description:
                       "The fundamental motion of skateboarding involves keeping your front foot on the board while pushing with your back foot. Learning to push smoothly and maintain balance is your first key skill.",
-                    image: "/src/assets/pushing.jpeg",
+                    image: "src/assets/pushing.jpeg",
                     videoLink: "https://youtu.be/elvJPyWYBuY?feature=shared",
                   },
                   {
                     title: "Carving: Making Smooth Turns",
                     description:
                       "Carving refers to making fluid turns by shifting your weight from heel to toe edge. It's similar to surfing or snowboarding and helps control speed and direction.",
-                    image: "/src/assets/carving.jpeg",
+                    image: "src/assets/carving.jpeg",
                     videoLink: "https://youtu.be/7of2VqAiM2Q?feature=shared",
                   },
                   {
                     title: "Ollie: The Fundamental Trick",
                     description:
                       "The ollie is jumping with your board using a specific technique. It's the foundation for most skateboarding tricks and essential for advancing your skills.",
-                    image: "/src/assets/ollie.jpeg",
+                    image: "src/assets/ollie.jpeg",
                     videoLink: "https://youtu.be/JNmUK9fvrAs?feature=shared",
                   },
                 ].map((term, index) => (
