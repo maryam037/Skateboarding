@@ -1,8 +1,15 @@
-# React + Vite
+# Skateboarding
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Skateboarding project! This project is a React application built with Vite, designed to provide a smooth and efficient user experience for skateboarding enthusiasts. It includes modern features such as Hot Module Replacement (HMR) and is styled using Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Built with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/)
+- Fast Refresh for a better development experience
+- Tailwind CSS for utility-first styling
+- ESLint for code quality and consistency
+- GitHub Pages deployment
+  
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
