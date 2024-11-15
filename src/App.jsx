@@ -673,7 +673,7 @@ const App = () => {
       <footer className="py-10 bg-black">
         <div className="container mx-auto px-4 text-center">
           <p className="text-gray-400">
-            © 2023 MATEX Skateboarding. All rights reserved.
+            © 2024 MATEX Skateboarding. All rights reserved.
           </p>
           <div className="flex justify-center space-x-4 mt-4">
             <a href="#" className="text-gray-400 hover:text-orange-500">
